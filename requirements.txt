@@ -10,3 +10,4 @@ streamlit==0.61.0
 tzlocal==2.1
 urllib3==1.25.9
 webencodings==0.5.1
+xlrd==1.2.0
